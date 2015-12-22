@@ -1,0 +1,8 @@
+---
+content_path: "./pobladores/public/index.html"
+partials: {}
+index_path: index.html
+stylesheet_dir: css
+image_dir: img
+javascript_dir: js
+no_sass: false
